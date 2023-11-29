@@ -22,5 +22,7 @@ This is a simple React application called Bot Battlr that allows users to select
 
   ## How to use
   Open in browser and the contents should be shown.
+  When you click on an image, it should be able to add to at the very top of the page.
+  To delete, press the X button under the bot
 
 
